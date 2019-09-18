@@ -32,7 +32,8 @@ The basic steps for building a Power BI report are as follows:
 4. Prepare and Format the report.  
 <img src="images/pbid-d01.png" width=80%>  
 
-    <img src="images/pbid-d02.png" width=80%>  
+
+<img src="images/pbid-d02.png" width=80%>  
 
 
 
