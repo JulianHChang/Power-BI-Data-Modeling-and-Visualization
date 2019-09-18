@@ -23,7 +23,7 @@ Database, Azure SQL Data Warehouse, Azure HDInsight Spark, SQL Server using Dire
 
 ## Build a Power BI report in Power BI Desktop
 The basic steps for building a Power BI report are as follows:
-1. Select the data source and prepare the data model.  
+1. Select the data source and prepare the data model.   
 <img src="images/pbid-a01.png" width=80%>
 2. Establish relationships.  
 <img src="images/pbid-b01.png" width=80%>
@@ -36,7 +36,9 @@ The basic steps for building a Power BI report are as follows:
 
 
 5. Optimize the report for mobile view.  
-<img src="images/pbid-e01.png" width=80%>
+<img src="images/pbid-e01.png" width=80%>  
+
+
 ## Publish a Power BI report
 
 
