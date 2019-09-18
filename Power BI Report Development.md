@@ -35,13 +35,13 @@ The basic steps for building a Power BI report are as follows:
     <img src="images/pbid-d02.png" width=80%>  
 
 
+
 5. Optimize the report for mobile view.  
 <img src="images/pbid-e01.png" width=80%>  
 
 
+
+
 ## Publish a Power BI report
 
-
-
-<img src="images/pbid-f01.png" width=80%>
-
+<img src="images/pbid-f01.png" width=80%>  
